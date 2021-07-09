@@ -1,0 +1,39 @@
+Personal
+    Plaformer Game
+
+    Paper Games
+    This Website
+    Python Shape Area Calculator
+
+
+University
+    MindStars Childrens Mental Heatlh App Demo
+        This was the dissertation project for third year. Due to this, it was not an assignment given to me by the university, but instead a subject to work on with a client.
+        The client was the social enterprise MindStars whose aim is to educate and empower children to learn, manage and maintain their mental health.
+        It was decided that this project would be a demonstration of the concept MindStars wanted to show off to potential backers.
+
+        This was built using the Unity2D engine and had a few different activities and menu systems that could be played on the PC for testing purposes and also functioned on a tablet as the app would.
+        Creating the full application was outside the scope of the dissertation project the github project is not a full application.
+
+    Gaming Simulations
+        For this assignment, the goal was to take an existing codebase which only had the code to display the graphics and basic controls and add simulation phyics to it.
+        The existing controls were basic position manipulation which had to be changed later on but the graphcis code was to be left as is. 
+
+        The features that needed adding from scratch were newtonian dynamics for entity movement, collision detection and resolution for all entities that required it, basic AI and pathfinding for enemies, and other gameplay elements and rules such as lose of lifes, scores, when to spawn entities etc.
+        For newtonian dynamics, the assignment required the application of forces, integration of position over time, springs and impulses.
+        The collision detection required sphere/sphere, AABB/AABB and sphere/AABB with the inclusion of both broad and narrow phases.
+        For the AI behaviour, we had to use state based behaviour with basic states such as attack, chase, patrol, and defend and also include flocking for other entities.
+        For pathfinding, it was recommended to use the A* pathfinding algorithm to direct the boss enemy towards the player.
+
+    SimpleRPG (Game Dev)
+        This assignment was very open ended with the main aim of developing a game. While there were criteria to meet, they were more to make sure to include necessary things such as opening and closing screens.
+        The engine I was told to use was GDevelop which is a VPL (Visual Programming Language) and that presented its own set of challenges. 
+        While GDevelop is designed to create very basic 2D games, I chose to try and create an RPG to push the limits of GDevelop and my own problem solving skills.
+        
+        The idea for the game was for it to be an RPG where the main goal was just to make money, complete the quests and get all the gear upgrades. 
+        The game has features such as inventory management, shops, farming, combat and basic exploration.  
+
+
+    Glass Cutting
+    Basic Sorting Algorithms
+    Telephone Directory
